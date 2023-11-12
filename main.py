@@ -1,5 +1,4 @@
-#Leon was here!
-
+# Leon was here!
 from PIL import Image
 import numpy as np
 import os
